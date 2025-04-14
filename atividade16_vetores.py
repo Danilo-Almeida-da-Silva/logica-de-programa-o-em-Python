@@ -27,3 +27,20 @@ print(max(vetor)) #mostrar o maior elemento
 print(len(vetor)) #retorna quantidade de elemento
 
 print(vetor.mean()) #retorna a média dos valores
+
+#Vetores parte 2
+
+nomes = np.array (['Danilo', 'Luana', 'Luan', 'Alicia'])
+print(nomes)
+
+nomes1 = np.array(['João', 'ana', 'rui'])
+print(nomes1)
+
+vetor1 = np.array([1, 2, 5, 6, 8, 9, 17, 7])
+
+#coloca em ordem crescente e muda na memoria
+vetor1.sort()
+nomes.sort()
+vetor.sort()
+print(f'ordem crescente dos vetores{vetor1} {nomes} {vetor}')
+
