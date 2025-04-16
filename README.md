@@ -31,7 +31,7 @@ No terminal digite o seguinte comando.
 # Como usar a biblioteca:
 
 ```
-<span style="color:blue">import</span> numpy <span style="color:blue">as</span> np
+<span style="color:blue"> import </span> numpy <span style="color:blue">as</span> np
 ```
 
 ## Como rodar o projeto Vai nos Livros
