@@ -17,5 +17,23 @@ Todas as atividades foram propostas em sala de aula e visam estimular o raciocí
 - Python 3.13.1
 - VsCode
 
-  #bibliotecas externas:
+# bibliotecas externas:
+
   ## - numpy
+
+# Como Instalar.
+
+No terminal digite o seguinte comando.
+
+```Bash
+pip install numpy
+```
+# Como usar a biblioteca:
+
+```
+import numpy as np
+
+```
+
+
+
