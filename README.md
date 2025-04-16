@@ -35,6 +35,20 @@ import numpy as np
 
 ```
 
+## Como rodar o projeto Vai nos Livros
+
+1. Clone o repositório:
+
+```Bash
+git clone https:
+
+```
+Acesse o diretório do projeto:
+cd projeto-noite-react
+Instale as dependências:
+npm install
+Inicie o servidor de desenvolvimento:
+
 
 
 
