@@ -15,3 +15,4 @@ Todas as atividades foram propostas em sala de aula e visam estimular o raciocí
 ## Tecnologias Utilizadas
 
 - Python 3.13.1
+- VsCode
