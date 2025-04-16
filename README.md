@@ -40,14 +40,14 @@ import numpy as np
 1. Clone o repositório:
 
 ```Bash
-git clone https:
+git clone https://github.com/Danilo-Almeida-da-Silva/logica-de-programa-o-em-Python.git
 
 ```
-Acesse o diretório do projeto:
-cd projeto-noite-react
-Instale as dependências:
-npm install
-Inicie o servidor de desenvolvimento:
+2. Acesse o diretório do projeto:
+
+```Bash
+cd logicapython
+```
 
 
 
