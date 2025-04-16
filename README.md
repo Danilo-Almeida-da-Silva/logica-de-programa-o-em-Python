@@ -8,8 +8,8 @@ O principal objetivo deste repositório é documentar o processo de aprendizagem
 - Manipulação de variáveis
 - Funções
 - Algoritmos básicos
-
-```
+  
 Todas as atividades foram propostas em sala de aula e visam estimular o raciocínio lógico e a capacidade de resolução de problemas por meio da programação.
-```
 
+
+## Tecnologias Utilizadas
