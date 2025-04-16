@@ -26,12 +26,12 @@ Todas as atividades foram propostas em sala de aula e visam estimular o raciocí
 No terminal digite o seguinte comando.
 
 ```Bash
-<span style="color:green">pip</span> install numpy
+pip install numpy
 ```
 # Como usar a biblioteca:
 
 ```
-<span style="color:blue"> import </span> numpy <span style="color:blue">as</span> np
+import numpy as np
 ```
 
 ## Como rodar o projeto Vai nos Livros
