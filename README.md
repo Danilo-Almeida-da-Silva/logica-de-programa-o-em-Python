@@ -32,7 +32,6 @@ pip install numpy
 
 ```
 import numpy as np
-
 ```
 
 ## Como rodar o projeto Vai nos Livros
