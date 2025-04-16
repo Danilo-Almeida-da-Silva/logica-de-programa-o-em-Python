@@ -16,3 +16,6 @@ Todas as atividades foram propostas em sala de aula e visam estimular o raciocí
 
 - Python 3.13.1
 - VsCode
+
+  #bibliotecas externas:
+  ## - numpy
